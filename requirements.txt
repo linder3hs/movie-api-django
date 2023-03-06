@@ -23,3 +23,4 @@ sqlparse==0.4.3
 uritemplate==4.1.1
 urllib3==1.26.14
 django-environ==0.10.0
+mysqlclient==2.1.1
